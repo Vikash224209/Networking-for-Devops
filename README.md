@@ -1,6 +1,6 @@
-How Internet Works?
+# How Internet Works?
 
-1. The Main Players
+## 1. The Main Players
 To get online, you need three main components:
 
 The Client: This is your device (phone, laptop) asking for information.
@@ -9,7 +9,7 @@ The Server: A powerful computer that "serves" content (like YouTube or Instagram
 
 The Router: The traffic controller in your house that directs data to the right device.
 
-2. The Journey of a Request
+## 2. The Journey of a Request
 When you type google.com into your browser, here is what happens behind the scenes:
 
 Step A: The Address Book (DNS)
